@@ -26,15 +26,14 @@ and restart Sublime Text
 
 
 ## TR
-Vscode'daki intellisensei sublime text'e getireceğiz.
 
-ilk önce
+ilk önce bu kodu cmd/terminal 'e yazın
 
 ``` 
   npm install -g typescript-language-server typescript
 ```
 
-sonra sublime text'de LSP paketini indiriyoruz.
+ardından sublime text'de LSP paketini indiriyoruz.
 
 Paket ayarlarına
 
@@ -49,5 +48,3 @@ Paket ayarlarına
 ```
 
 ekliyoruz ve yeniden başlatıyoruz.
-
-Bu kadar.
