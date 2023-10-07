@@ -1,6 +1,6 @@
 # vscintellisenseinsublimetext
 
-##EN
+## EN
 
 First type this code to cmd/terminal
 
@@ -31,7 +31,7 @@ Vscode'daki intellisensei sublime text'e getireceğiz.
 ilk önce
 
 ``` 
-  sudo npm install -g typescript-language-server typescript
+  npm install -g typescript-language-server typescript
 ```
 
 sonra sublime text'de LSP paketini indiriyoruz.
